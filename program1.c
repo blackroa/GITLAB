@@ -9,8 +9,8 @@ void main()
 {
 int a;
 a = eiei();
-printf("hello githubA B\n");
-printf("modify by a B\n");
-printf("addmore\n");
+
+printf("hello githubA A B\n");
+printf("modify by a A B\n");
 printf("moremoremore\n");
 }
